@@ -1,0 +1,15 @@
+.lg {
+    margin-top: 14%;
+    justify-content: center;
+}
+
+.logo {
+    margin-top: 0.1%;
+}
+
+.logo img {
+    border-radius: 50%;
+    border-color: #004d40; /* Dark Green border */
+    border-style: groove;
+    border-width: 2px;
+}
